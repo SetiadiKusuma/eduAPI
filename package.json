@@ -1,0 +1,13 @@
+{
+  "name": "eduAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zalu",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "9.7.0"
+  }
+}

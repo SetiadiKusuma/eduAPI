@@ -1,1 +1,7 @@
-{}
+{
+    "env": {
+        "userEmail": "admin",
+        "userPassword": "admin",
+        "apiUrl": "https://o8vyl.mocklab.io"
+    }
+}
